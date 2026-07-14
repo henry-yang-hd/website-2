@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is **Henry Yang**, and I am attending *Stuyvesant High School*.
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
